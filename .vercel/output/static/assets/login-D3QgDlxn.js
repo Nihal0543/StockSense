@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./useNavigate-msMaBZZ-.js";import{n}from"./use-current-user-DMHVVfss.js";import{t as r}from"./login-form-BMbvRa2A.js";var i=e();function a(){let{user:e}=n();return e?(0,i.jsx)(t,{to:`/dashboard`}):(0,i.jsx)(r,{})}export{a as component};

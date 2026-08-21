@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "StockSense",
+      "hasCanvas": false,
+      "bodyTextLen": 604,
+      "bodyTextHash": "0498b56c4b91982e052d147ddc9ee6bef6e289994e8a84132ff9e2f2b200fa5d",
+      "bodyTextPrefix": "StockSense INVENTORY FORESIGHT Know what runs out — before it do",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "StockSense",
+      "hasCanvas": false,
+      "bodyTextLen": 229,
+      "bodyTextHash": "e38d35a6beb63f1163c9f8e8539f959d9cdb9edf7b75379f5ec0652ddc9fbd7d",
+      "bodyTextPrefix": "StockSense INVENTORY FORESIGHT Sign in Welcome back. Check what ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
